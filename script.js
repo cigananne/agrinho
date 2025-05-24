@@ -16,6 +16,42 @@ const questions = [
       { text: "Alimentos", correct: true },
       { text: "Ônibus", correct: false }
     ]
+  },
+  {
+    question: "Qual destes alimentos geralmente vem do campo?",
+    answers: [
+      { text: "Arroz", correct: true },
+      { text: "Celular", correct: false },
+      { text: "Computador", correct: false },
+      { text: "Televisão", correct: false }
+    ]
+  },
+  {
+    question: "Como a tecnologia ajuda os agricultores?",
+    answers: [
+      { text: "Melhorando a produção e o cuidado com as plantações", correct: true },
+      { text: "Diminuindo a quantidade de alimentos", correct: false },
+      { text: "Fazendo os agricultores pararem de trabalhar", correct: false },
+      { text: "Impedindo o transporte de alimentos", correct: false }
+    ]
+  },
+  {
+    question: "O que acontece nas feiras que ligam o campo à cidade?",
+    answers: [
+      { text: "Vendem produtos frescos do campo para os moradores da cidade", correct: true },
+      { text: "Só vendem roupas", correct: false },
+      { text: "É um local de shows musicais", correct: false },
+      { text: "É um lugar para dormir", correct: false }
+    ]
+  },
+  {
+    question: "Qual é a importância da agricultura para a cidade?",
+    answers: [
+      { text: "Fornecer alimentos para a população", correct: true },
+      { text: "Construir prédios", correct: false },
+      { text: "Criar carros", correct: false },
+      { text: "Fazer shows", correct: false }
+    ]
   }
 ];
 
